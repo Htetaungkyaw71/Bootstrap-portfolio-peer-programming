@@ -63,4 +63,24 @@ body{
         width: 32px;
         height: 32px;
     }
+
+    .contact-form {
+        background-image: url(images/contact-background\ \(1\).svg);
+        background-repeat: no-repeat;
+        background-size:100% auto;
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-color: white;
+    border-radius: 100px 0px 0px 0px;
+
+    }
+
+    .contact-me {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+        font-size: 40px;
+        line-height: 52px;
+    }
 }
