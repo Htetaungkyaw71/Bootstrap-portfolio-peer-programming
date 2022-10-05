@@ -3,18 +3,14 @@
 # Project Name
 
 > Description the project.
+Portfolio Project 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML CSS
+- BOOTSTRAP
+- Linters 
 
 ## Getting Started
 
@@ -25,16 +21,11 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+GIT VS CODE 
 
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+Clone : https://github.com/Htetaungkyaw71/Bootstrap-portfolio-peer-programming.git
 
 
 
@@ -42,15 +33,13 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Htetaungkyaw71)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/htet-aung-kyaw-9a77271a7/)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/AbhishekkM05)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/abhishek-kumar-mishra-bb5bb4101/)
 
 ## 🤝 Contributing
 
