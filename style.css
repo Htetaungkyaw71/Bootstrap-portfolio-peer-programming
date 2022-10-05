@@ -1,8 +1,8 @@
-header{
-    background-image: url("images/bg.png");
-    background-size:cover;
+.header{
+    background-image: url("images/bg2.png");
+    background-size:100% auto;
     background-repeat: no-repeat;
-    height: 110vh;
+    height: 80vh;
     background-color: white;
     border-radius: 0px 0px 0px 100px;
 }
@@ -12,22 +12,55 @@ body{
 .navigation{
     background-color: white;
 }
+
 .img-column{
-    order: 1;
+    order: 0;
 }
 .header-text{
-    width: 75%;
+    width: 100%;
 }
-@media (max-width:768px) {
+
+.about{
+    background-color: white;
+    border-radius: 0px 100px 0px 0px;
+}
+
+.language-img{
+    width: 50px;
+    height: 50px;
+}
+.arrow{
+    width: 15px;
+    height: 15px;
+}
+
+.uparrow{
+    width: 32px;
+    height: 32px;
+}
+
+@media (min-width:768px) {
     .header{
-        background-image: url("images/bg2.png");
-        background-size: 100% auto;
-        height: 80vh;
+        background-image: url("images/bg.png");
+        background-size: cover;
+        height: 112vh;
     }
     .img-column{
-        order: 0;
+        order: 1;
     }
     .header-text{
-        width: 100%;
+        width: 75%;
+    }
+    .language-img{
+        width: 50px;
+        height: 50px;
+    }
+    .arrow{
+        width: 15px;
+        height: 15px;
+    }
+    .uparrow{
+        width: 32px;
+        height: 32px;
     }
 }
